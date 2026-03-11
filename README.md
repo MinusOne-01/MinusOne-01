@@ -9,7 +9,7 @@ feeds, queues, rate limiting, storage, and analytics.
 ---
 
 ### 🔧 Tech
-- Node.js, TypeScript
+- Node.js, TypeScript, Python
 - PostgreSQL, Prisma
 - Redis, BullMQ
 - Next.js
